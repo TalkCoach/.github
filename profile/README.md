@@ -18,7 +18,7 @@
 
 # 2. Team Members (팀원 및 팀 소개)
 | 구자혁 | 지경태 | 조성빈 | 황요성 | 류호찬 |
-|:------:|:------:|:------:|:------:|
+|:------:|:------:|:------:|:------:|:------:|
 | <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="구자혁" width="150"> | <img src="https://github.com/user-attachments/assets/c770c42b-4722-4207-a274-e335cb7c2d8c" alt="지경태" width="150"> | <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="조성빈" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="황요성" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="류호찬" width="150"> |
 | BE | BE | BE | FE | FE |
 | [GitHub](https://github.com/JaHyeok2002) | [GitHub](https://github.com/JiKyeongtae) | [GitHub](https://github.com/ryuhochan0406) | [GitHub](https://github.com/ryuhochan0406) | [GitHub](https://github.com/ryuhochan0406) |
